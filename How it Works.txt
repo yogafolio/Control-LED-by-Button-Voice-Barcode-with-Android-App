@@ -1,0 +1,16 @@
+How it Works :
+
+When the "ON LED 1" button is pressed, it will produce an output value "on1" to turn on the lamp (1)
+When the "ON LED 2" button is pressed, it will produce the output value "on2" to turn on the lamp (2)
+When the "ON LED 1-2" button is pressed, it will produce the output value "on22" to turn on the lamp (1) and the lamp (2)
+When the "OFF" button is pressed, it will produce the output value "off" to turn off the lamp (1) and lamp (2)
+
+When the user says and the sound is received as "satu", it will produce an output value "on1" to turn on the lamp (1)
+When the user says and the sound is received as "dua", it will produce the output value "on2" to turn on the lamp (2)
+When the user says and the sound is received as "tiga", it will produce the output value "on22" to turn on the lamp (1) and the lamp (2)
+When the user says and the sound is received as "empat", it will produce the output value "off" to turn off the lamp (1) and lamp (2)
+
+When the barcode is detected as "1234567890128", it will produce an output value "on1" to turn on the lamp (1)
+When the barcode is detected as "780863185779", it will produce the output value "on2" to turn on the lamp (2)
+When the barcode is detected as "9421023610112", it will produce the output value "on22" to turn on the lamp (1) and the lamp (2)
+When the barcode is detected as "39123439", it will produce the output value "off" to turn off the lamp (1) and lamp (2)
